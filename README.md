@@ -1,24 +1,7 @@
-### Hi there 👋
+Hi there, I am **Akshaykumar Lilani**👋 
+<br> 
+A FullStack Developer building web applications.
 
-<a href="www.linkedin.com/in/akshay-lilani">
-  <img src="./LinkedIn-logo.svg" alt="LinkedIn Profile">
-</a>
+**Connect with me**
 
-<a href="https://Akshaykumarlilani.github.io">
-  <img src="./portfolio.svg" alt="Portfolio" width="32px" height="32px">
-</a>
-
-<!--
-**AkshaykumarLilani/AkshaykumarLilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](./LinkedIn-logo.svg)](https://www.linkedin.com/in/akshay-lilani/)   [![Portfolio](./portfolio.svg "Porfolio")](https://Akshaykumarlilani.github.io)
