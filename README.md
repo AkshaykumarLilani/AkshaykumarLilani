@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="www.linkedin.com/in/akshay-lilani">
-  <img src="linkedin-logo.png" alt="LinkedIn Profile">
+  <img src="./LinkedIn-logo.svg" alt="LinkedIn Profile">
 </a>
 
 <!--
