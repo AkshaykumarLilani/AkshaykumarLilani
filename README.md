@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://Akshaykumarlilani.github.io">
-  <img src="./portfolio.svg" alt="Portfolio">
+  <img src="./portfolio.svg" alt="Portfolio" width="32px" height="32px">
 </a>
 
 <!--
