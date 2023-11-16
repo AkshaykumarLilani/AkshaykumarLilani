@@ -4,6 +4,10 @@
   <img src="./LinkedIn-logo.svg" alt="LinkedIn Profile">
 </a>
 
+<a href="https://Akshaykumarlilani.github.io">
+  <img src="./portfolio.svg" alt="Portfolio">
+</a>
+
 <!--
 **AkshaykumarLilani/AkshaykumarLilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
