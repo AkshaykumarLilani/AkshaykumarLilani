@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="www.linkedin.com/in/akshay-lilani">
+  <img src="linkedin-logo.png" alt="LinkedIn Profile">
+</a>
+
 <!--
 **AkshaykumarLilani/AkshaykumarLilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
