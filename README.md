@@ -1,5 +1,5 @@
-<a href="https://www.adityavsingh.com"><img src="https://komarev.com/ghpvc/?username=AkshaykumarLilani&label=Profile%20views&color=0e75b6&style=flat" alt="Akshaykumar Lilani Profile Views" /> </a>
-<a href="https://www.akshaylilani.com"><img src="https://img.shields.io/badge/-akshaylilani.com-3423A6?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="https://akshaylilani.com"><img src="https://komarev.com/ghpvc/?username=AkshaykumarLilani&label=Profile%20views&color=0e75b6&style=flat" alt="Akshaykumar Lilani Profile Views" /> </a>
+<a href="https://akshaylilani.com"><img src="https://img.shields.io/badge/-akshaylilani.com-3423A6?style=flat&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/akshay-lilani"><img src="https://img.shields.io/badge/-Akshay_Lilani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://in.tradingview.com/u/S_Codes/"><img src="https://img.shields.io/badge/-Stocks_and_Codes-black?style=flat&logo=tradingview&logoColor=white"/></a>
 
