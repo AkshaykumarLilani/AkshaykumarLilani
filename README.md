@@ -6,6 +6,8 @@
 <h4>Senior Software Engineer at Teson LLP</h4>
 I am a versatile Full Stack Web Developer with more than a year of experience in MERN, Django REST Framework, Docker, Python Scripting, Node Scripting, PineScript, AWS EC2, AWS S3, and Salesforce REST APIs. Proven track record in solo and collaborative projects, showcasing technical versatility, problem-solving, and effective teamwork.
 
+<h4>Currently learning: Redis & Docker</h4>
+
 <h1>🔗 Links</h1>
 <dl>
     <dd>
